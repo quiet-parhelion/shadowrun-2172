@@ -1,18 +1,4 @@
-# Quartz v4
+# Shadowrun 2172
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+This repository hosts the campaign dossier for Shadowrun 2172, a Shadowrun 5th edition campaign  
+[Quartz](https://quartz.jzhao.xyz/) is used to generate a servable website from the [Obsidian](https://obsidian.md/) vault under `content/`
