@@ -3,5 +3,3 @@ Hotel 99 is a modest motel on the outskirts of the 9th District Ghetto. Couple o
 That is to say, it's in backass-nowhere, far out of any peacekeeping stations, you probably would sooner see a corpo give money to charity out of the goodness of their heart, than to have Lonestar pick your ass up in-case of a break-in. As it normally is, with these motels. Large part of the clientele are nomads, going from one city or another stopping by for a supply run; or idiots who do the same but unprepared. 
 
 It offers free-range parking and the normal and standard privacy considerations you could expect: polarised windows, cheap noise wallpapers and basic soundproofing on paper-thin, cheap, fourth-grade Aeroplast walls. At the surprise of absolutely no one, -- largely due to its location -- it's deep in roadgangers territory
-
-The hotel has a [[Parking]]
